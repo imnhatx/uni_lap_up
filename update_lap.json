@@ -2,5 +2,6 @@
   "latest_version": "2.0.6",
   "status": true,
   "plugin_name" : "uni_lap",
-  "download_url": "https://www.dropbox.com/scl/fo/ysfr6ltvs61qu4vy63sxx/h?rlkey=yzfhgkjbu8yijuwyydskhvrod&dl=1"
+  "download_url": "https://www.dropbox.com/scl/fo/ysfr6ltvs61qu4vy63sxx/h?rlkey=yzfhgkjbu8yijuwyydskhvrod&dl=1",
+  "messagebox": ""
 }
